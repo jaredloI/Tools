@@ -2112,7 +2112,7 @@ do -- Example UI
 	library:FormatWindows()
 end
 
-local Window = library:AddWindow("Redware - Selling Tools", {
+local Window = library:AddWindow("Redware - Selling Tools 💸", {
     main_color = Color3.fromRGB(0, 255, 0),
     min_size = Vector2.new(210, 190),
     toggle_key = Enum.KeyCode.V,
